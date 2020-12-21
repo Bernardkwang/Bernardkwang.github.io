@@ -5,7 +5,7 @@
 ### Capstone Project 1
 
 [Basics of Data Science](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/photo.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
